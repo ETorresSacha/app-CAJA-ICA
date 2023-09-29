@@ -12,7 +12,7 @@ Esta app de mis inicios como programador, cuando inicié como autodidacta, trata
 
 
 ## Tecnología
-<div align="left">
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
