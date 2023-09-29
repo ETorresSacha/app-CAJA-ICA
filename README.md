@@ -5,9 +5,9 @@ Esta app de mis inicios como programador, cuando inicié como autodidacta, trata
 ## Objetivos
 🎯 Se creó un formulario con los datos del cliente.
 🎯 Se creó un formulario para detallas los gastos, incluye el CRUD.
-🎯 Se creó la coneccion con la base de datos en MySQL.
+🎯 Se creó la conexión con la base de datos en MySQL.
 
-## Tecnologia
+## Tecnología
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
