@@ -5,9 +5,9 @@ Esta app de mis inicios como programador, cuando inicié como autodidacta, trata
 ## Objetivos
 <div align="center">
 
-*🎯 Se creó un formulario con los datos del cliente.
-*🎯 Se creó un formulario para detallas los gastos, incluye el CRUD.
-*🎯 Se creó la conexión con la base de datos en MySQL.
+<li>🎯 Se creó un formulario con los datos del cliente.</li>
+<li>🎯 Se creó un formulario para detallas los gastos, incluye el CRUD.</li>
+<li>🎯 Se creó la conexión con la base de datos en MySQL.</li>
   </div>
 
 
