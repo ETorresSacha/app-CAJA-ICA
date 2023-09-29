@@ -3,7 +3,7 @@
 Esta app de mis inicios como programador, cuando inicié como autodidacta, trata para evaluar a los clientes que quieran sacar un préstamo en caja Ica.
 
 ## Objetivos
-<div align="center">
+<div align="left">
 
 <li>🎯 Se creó un formulario con los datos del cliente.</li>
 <li>🎯 Se creó un formulario para detallas los gastos, incluye el CRUD.</li>
